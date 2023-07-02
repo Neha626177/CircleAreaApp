@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CircleAreaApp/static/css/main.6bba8055.css",
+    "main.js": "/CircleAreaApp/static/js/main.518d9204.js",
+    "index.html": "/CircleAreaApp/index.html",
+    "main.6bba8055.css.map": "/CircleAreaApp/static/css/main.6bba8055.css.map",
+    "main.518d9204.js.map": "/CircleAreaApp/static/js/main.518d9204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bba8055.css",
+    "static/js/main.518d9204.js"
+  ]
+}
